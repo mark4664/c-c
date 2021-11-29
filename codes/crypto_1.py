@@ -2,6 +2,7 @@
 # mgb 29/11/21
 # play with python cryptography module
 # added on line in github
+# added on mx
 from cryptography.fernet import Fernet
 
 #key = Fernet.generate_key()
