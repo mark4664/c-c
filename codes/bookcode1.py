@@ -1,6 +1,8 @@
 # Book code
 # mgb
 # 28/11/21
+# an amendment
+
 
 # Experiment at basic encryption
 
